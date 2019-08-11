@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 /*
-git config --global user.name 'liangdada123'
+git config --global user.name 'liangdada123d'
  */
 @Mapper
 public interface RpcNewsdetailMapper {
